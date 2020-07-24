@@ -8,6 +8,7 @@ A collection of Ruby courses we can all learn from!
 - [Confident Ruby](https://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S) by Avdi Grimm
 - [Rebuilding Rails](https://rebuilding-rails.com/) by Noah Gibbs
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by Nate Berkopec
+- [Playbook Thirty-nine](https://playbookthirtynine.com/p/home) by Nick Haskins
 
 #### Courses
 

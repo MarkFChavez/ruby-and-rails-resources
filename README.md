@@ -1,4 +1,4 @@
-### Ruby and Rails course catalog
+### Ruby and Rails resource catalog
 
 A collection of Ruby courses we can all learn from!
 

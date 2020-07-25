@@ -10,6 +10,7 @@ A collection of Ruby courses we can all learn from!
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by Nate Berkopec
 - [Playbook Thirty-nine](https://playbookthirtynine.com/p/home) by Nick Haskins
 - [Rails AntiPatterns](https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814) by Chad Pytel and Tammer Saleh
+- [Rails 4 Way](https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275) by Obie Fernandez
 
 #### Courses
 

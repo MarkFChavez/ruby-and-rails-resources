@@ -17,3 +17,4 @@ A collection of Ruby courses we can all learn from!
 - [Flawless Ruby](https://learn.avdi.codes/courses/flawless-ruby/) by Avdi Grimm
 - [Ruby Tapas](https://www.rubytapas.com/) by Avdi Grimm
 - [GoRails](https://gorails.com/) by Chris Oliver
+- [Master the Object Oriented Mindset in Ruby on Rails](https://avdi.codes/moom/) by Avdi Grimm
